@@ -5,6 +5,7 @@ import com.hp.hpl.jena.sdb.store.LayoutType;
 import edu.ifpb.geosertao.OntoDataBaseFacade;
 
 
+
 /**
  *
  * @author emanuel
@@ -28,4 +29,5 @@ public class Main {
 
     }
 }
+
 
