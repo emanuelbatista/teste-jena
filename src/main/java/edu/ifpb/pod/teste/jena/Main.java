@@ -25,9 +25,8 @@ public class Main {
         ontoDataBaseFacade.readData("file:///home/emanuel/Documentos/tsv/ttl/geonames/yagoGeonamesTypesSources.ttl");
         ontoDataBaseFacade.close();
         
-        
-
     }
 }
+
 
 
